@@ -30,6 +30,8 @@ A simple and accurate command-line tool built in Python to calculate your **annu
 
 > 📝 Note: An additional **4% Health & Education Cess** is added on total tax.
 
+#sample output
+
 ---
 
 ## 🚀 Getting Started
