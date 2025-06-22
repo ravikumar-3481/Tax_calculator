@@ -30,7 +30,19 @@ A simple and accurate command-line tool built in Python to calculate your **annu
 
 > 📝 Note: An additional **4% Health & Education Cess** is added on total tax.
 
-#sample output
+## 💻 Sample Output 
+
+📊 Income Tax Summary (New Tax Regime - FY 2025–26)
+--------------------------------------------------
+🧾 Gross Annual Income         : ₹4,000,000.00
+✅ Standard Deduction          : ₹75,000.00
+💸 Total Tax Payable           : ₹787,800.00
+👐 Annual In-hand Income       : ₹3,212,200.00
+--------------------------------------------------
+📅 Monthly Breakup:
+    ➤ Monthly Tax             : ₹65,650.00
+    ➤ Monthly In-hand Income  : ₹267,683.33
+--------------------------------------------------
 
 ---
 
