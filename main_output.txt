@@ -1,0 +1,18 @@
+Enter your annual gross income (₹): 
+5000000
+
+📊 Income Tax Summary (New Tax Regime - FY 2025-26)
+--------------------------------------------------
+🧾 Gross Annual Income         : ₹5,000,000.00
+✅ Standard Deduction          : ₹75,000.00
+💸 Total Tax Payable           : ₹1,099,800.00
+👐 Annual In-hand Income       : ₹3,900,200.00
+--------------------------------------------------
+📅 Monthly Breakup:
+    ➤ Monthly Tax             : ₹91,650.00
+    ➤ Monthly In-hand Income  : ₹325,016.67
+--------------------------------------------------
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
